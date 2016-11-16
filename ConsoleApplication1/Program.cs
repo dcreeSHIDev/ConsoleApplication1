@@ -10,6 +10,10 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //
+            var x = 0;
+            args[0] = x.ToString();
+
         }
     }
 }
